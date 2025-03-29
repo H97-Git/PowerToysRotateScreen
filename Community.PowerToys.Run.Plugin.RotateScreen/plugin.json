@@ -1,0 +1,12 @@
+﻿{
+  "ID": "D5C2EBB4AA71471A9E9201CF3E52605F",
+  "ActionKeyword": "rs",
+  "Name": "RotateScreen",
+  "Author": "H97",
+  "Version": "1.2.0",
+  "Language": "csharp",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.RotateScreen.dll",
+  "IcoPathDark": "Images\\RotateScreen.dark.png",
+  "IcoPathLight": "Images\\RotateScreen.light.png",
+  "DynamicLoading": false
+}
